@@ -11,3 +11,5 @@
 - week3/class/program test3.c
 ![예제 5_4_3](https://github.com/2020864003/2023game/assets/128778304/8941263b-36fc-4fe5-a006-5469effc6d27)
 
+- week3/class/program test4.c
+![예제 5_4_4](https://github.com/2020864003/2023game/assets/128778304/93bd5114-d7c6-4147-8bce-7b20c21b72c2)
