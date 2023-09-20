@@ -13,3 +13,17 @@
 
 - week3/class/program test4.c
 ![예제 5_4_4](https://github.com/2020864003/2023game/assets/128778304/93bd5114-d7c6-4147-8bce-7b20c21b72c2)
+
+
+- week3/class/program test5.c
+![예제 6_1_1](https://github.com/2020864003/2023game/assets/128778304/5aea6d12-5572-4547-9969-0c2e300c30fb)
+
+
+- week3/class/program test6.c
+![예제 6_2_1 - 1](https://github.com/2020864003/2023game/assets/128778304/1c28110f-8291-4c80-96cc-eb5b2d553d39)
+![예제 6_2_1 - 2](https://github.com/2020864003/2023game/assets/128778304/17acfc38-9852-4c98-bdf0-57821fb3dee9)
+
+
+- week3/class/program test7.c
+![예제 6_3_1](https://github.com/2020864003/2023game/assets/128778304/5576d851-ed04-489e-9a0d-9f19f54abbd3)
+=> 화살표를 눌리면 눌리는 방향키로 움직이고, 스페이스를 눌리면 모양이 움직임.
