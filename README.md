@@ -1,6 +1,8 @@
 # 2023game
 ## week 1
+
 ## week 2
+
 ## week 3
 - week3/class/program test1.c
 ![예제 5_4_1](https://github.com/2020864003/2023game/assets/128778304/1f517589-df35-4483-bde0-5f967e6d9a4c)
@@ -27,3 +29,25 @@
 - week3/class/program test7.c
 ![예제 6_3_1](https://github.com/2020864003/2023game/assets/128778304/5576d851-ed04-489e-9a0d-9f19f54abbd3)
 => 화살표를 눌리면 눌리는 방향키로 움직이고, 스페이스를 눌리면 모양이 움직임.
+
+## week 4
+
+## week 5
+
+## week 6
+
+## week 7
+
+## week 8
+
+## week 9
+
+## week 10
+
+## week 11
+
+## week 12
+
+## week 13
+
+## week 14
