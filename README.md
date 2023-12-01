@@ -1,6 +1,7 @@
-<img width="933" alt="KakaoTalk_Photo_2023-12-01-16-34-49 001png" src="https://github.com/2020864003/2023game/assets/128778304/7f9817e3-9054-48cf-a01f-c8be17bde238"># 2023game
-## week 1
+# 2023game
 
+## week 1
+ 
 ## week 2
 
 ## week 3
