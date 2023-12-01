@@ -47,13 +47,14 @@
 ## week 11
 
 ## week 12
+-> 게임프로그리맹 Unity 설치하여, 볼과 큐브를 만들며, 사용하여 간단한 예제를 실행 시킨 결과입니다.
 
 ![KakaoTalk_Photo_2023-12-01-16-31-06 002png](https://github.com/2020864003/2023game/assets/128778304/7ac757ff-fc67-4271-be12-b576ef01eb89)
 
 ![KakaoTalk_Photo_2023-12-01-16-31-06 001png](https://github.com/2020864003/2023game/assets/128778304/54b5afcc-10f3-4caa-a861-e9fb4e90711e)
 
 ## week 13
-
+-> 12주차에 Unity를 설치 한 것으로 과제를 C#Script를 해보며 실행한 결과 입니다.
 <img width="933" alt="KakaoTalk_Photo_2023-12-01-16-34-49 002png" src="https://github.com/2020864003/2023game/assets/128778304/480269a1-1ff1-45f4-a773-b3ecf647015c">
 
 <img width="933" alt="KakaoTalk_Photo_2023-12-01-16-34-49 001png" src="https://github.com/2020864003/2023game/assets/128778304/945bcfb6-3a51-4931-8bea-94a9c99e0ae1">
