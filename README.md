@@ -1,5 +1,5 @@
 # 2023game
-
+-> 얘제코드들은 업로드 완료! 
 ## week 1
 - week1/class/예제 3_1_1.cpp
   ![3-1-1](https://github.com/2020864003/2023game/assets/128778304/5d643697-7eca-4068-b5a5-f45e741d8323)
@@ -82,6 +82,22 @@
 => 화살표를 눌리면 눌리는 방향키로 움직이고, 스페이스를 눌리면 모양이 움직임.
 
 ## week 4
+- week4/class/예제11_1_1.cpp
+![11-1-1](https://github.com/2020864003/2023game/assets/128778304/4aaa512e-3021-4969-91cc-6e3e9061e739)
+
+- week4/class/예제11_2_1.cpp
+![11-2-1](https://github.com/2020864003/2023game/assets/128778304/8355e184-f6ac-4e2f-a57b-c7791b2361f7)
+![11-2-1-1](https://github.com/2020864003/2023game/assets/128778304/7f29e145-343e-4b0a-8ed4-65d061ea0f4f)
+
+- week4/class/예제11_3_1.cpp
+![11-3-1](https://github.com/2020864003/2023game/assets/128778304/842e635a-bec3-417f-8fb8-40fc53bfb8a5)
+![11-3-1-1](https://github.com/2020864003/2023game/assets/128778304/88e6c7fa-3484-4759-92d6-7dd189159107)
+
+- week4/class/예제11_4_1.cpp
+![11-4-1](https://github.com/2020864003/2023game/assets/128778304/0248c93f-03c1-47bc-bc06-918477664126)
+
+- week4/class/예제11_5_1.cpp
+![11-5-1](https://github.com/2020864003/2023game/assets/128778304/4d7b1663-b935-4252-81d1-127edd0e78aa)
 
 ## week 5
 
