@@ -13,6 +13,10 @@
 ![5_3_3](https://github.com/2020864003/2023game/assets/128778304/28bc4785-88b9-4a3e-afe8-d45f1788c5b1)
 
 - week2/class/예제5_3_4.cpp
+ 키보드 눌릴시 음간의 지연시간 1초
+![5-3-4](https://github.com/2020864003/2023game/assets/128778304/e40679fb-cfdb-419d-9d23-12b55a1bdd11)
+
+
 - week2/class/예제5_3_5.cpp
 ![5-3-5](https://github.com/2020864003/2023game/assets/128778304/927d3a45-b838-4e28-9b4d-86b47bda18bd)
 
