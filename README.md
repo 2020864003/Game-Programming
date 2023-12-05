@@ -134,7 +134,8 @@
  
 ## week 9
  - ### ex11-01.html
-   [U<!DOCTYPE html>
+   [Uploading ex11-01.html…]()
+   <!DOCTYPE html>
 <html>
 <head>
 <meta charset="UTF-8">
@@ -150,7 +151,8 @@
 	style="background-color:yellow"></canvas>
 </body>
 </html>
-ploading ex11-01.html…]()
+
+
 
 - ### ex11-02.html
 [Uploading ex11-02.html…]()<!DOCTYPE html>
