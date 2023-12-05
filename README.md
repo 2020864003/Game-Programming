@@ -1,7 +1,29 @@
 # 2023game
 
 ## week 1
- 
+- week2/class/예제 3_1_1.cpp
+  ![3-1-1](https://github.com/2020864003/2023game/assets/128778304/5d643697-7eca-4068-b5a5-f45e741d8323)
+
+- week2/class/예제 3_1_2.cpp
+  ![3-1-2](https://github.com/2020864003/2023game/assets/128778304/6e39c675-ac34-4614-b396-102bbfd263b2)
+
+- week2/class/예제 3_1_3.cpp
+  ![3-1-3-1](https://github.com/2020864003/2023game/assets/128778304/f702c17e-6b98-4d20-8140-8dd3e0627bcf)
+  ![3-1-3-2](https://github.com/2020864003/2023game/assets/128778304/6777227b-b04c-4125-b9f3-acd05dfd4d96)
+
+- week2/class/예제 3_1_4.cpp
+  ![3-1-4](https://github.com/2020864003/2023game/assets/128778304/ff08733b-31a5-4597-84ab-9d94b34ce35b)
+
+- week2/class/예제 3_2_1.cpp
+  ![3-2-1](https://github.com/2020864003/2023game/assets/128778304/d6ff44c9-c5bc-49db-8a56-dd253eaacb6e)
+
+- week2/class/예제 3_2_2.cpp
+ ![3-2-2](https://github.com/2020864003/2023game/assets/128778304/e5b4e76c-14fa-48ae-b8fa-32d3cf6b6390)
+
+- week2/class/예제 3_2_3.cpp
+ ![3-2-3](https://github.com/2020864003/2023game/assets/128778304/722ca861-eadc-461b-99b3-fdf979fd8064)
+
+
 ## week 2
 - week2/class/예제5_1_1.cpp
  ![5 1 1](https://github.com/2020864003/2023game/assets/128778304/d1f4d397-fb3a-4197-b6b0-1c3c8f96a190)
