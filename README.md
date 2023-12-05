@@ -369,8 +369,15 @@
 
 
 ## week 10
+- ### HTML 게임 주제 정해서 PPT 설명
+  [HTML GAME - 2020864003 이정환.pdf](https://github.com/2020864003/2023game/files/13555992/HTML.GAME.-.2020864003.pdf)
+
 
 ## week 11
+- ### 10주차에 HTML 게임 주제 정한 것을 응용 하여 PPT 설명
+  [HTML 게임 응용 - 2020864003 이정환.pdf](https://github.com/2020864003/2023game/files/13555994/HTML.-.2020864003.pdf)
+[Uploading game2020864003.html]
+
 
 ## week 12
 -> 게임프로그리맹 Unity 설치하여, 볼과 큐브를 만들며, 사용하여 간단한 예제를 실행 시킨 결과입니다.
