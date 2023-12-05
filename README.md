@@ -4,10 +4,10 @@
 - week1/class/예제 3_1_1.cpp
   ![3-1-1](https://github.com/2020864003/2023game/assets/128778304/5d643697-7eca-4068-b5a5-f45e741d8323)
 
-- week1/class/예제 3_1_2.cpp
+- #week1/class/예제 3_1_2.cpp
   ![3-1-2](https://github.com/2020864003/2023game/assets/128778304/6e39c675-ac34-4614-b396-102bbfd263b2)
 
-- week1/class/예제 3_1_3.cpp
+- #week1/class/예제 3_1_3.cpp
   ![3-1-3-1](https://github.com/2020864003/2023game/assets/128778304/f702c17e-6b98-4d20-8140-8dd3e0627bcf)
   ![3-1-3-2](https://github.com/2020864003/2023game/assets/128778304/6777227b-b04c-4125-b9f3-acd05dfd4d96)
 
