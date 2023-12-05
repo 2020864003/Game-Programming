@@ -3,6 +3,30 @@
 ## week 1
  
 ## week 2
+- week2/class/예제5_1_1.cpp
+ ![5 1 1](https://github.com/2020864003/2023game/assets/128778304/d1f4d397-fb3a-4197-b6b0-1c3c8f96a190)
+
+- week2/class/예제5_1_2.cpp
+![5 1 2](https://github.com/2020864003/2023game/assets/128778304/89b6f2d8-7986-45ed-87b1-3dffbe31b36c)
+
+- week2/class/예제5_3_3.cpp
+![5_3_3](https://github.com/2020864003/2023game/assets/128778304/28bc4785-88b9-4a3e-afe8-d45f1788c5b1)
+
+- week2/class/예제5_3_4.cpp
+- week2/class/예제5_3_5.cpp
+![5-3-5](https://github.com/2020864003/2023game/assets/128778304/927d3a45-b838-4e28-9b4d-86b47bda18bd)
+
+- week2/class/예제5_5_1.cpp
+![5-5-1](https://github.com/2020864003/2023game/assets/128778304/ee554481-4afa-4f9c-aedc-c4be68a6fd10)
+
+
+- week2/class/예제5_5_2.cpp
+![5-5-2](https://github.com/2020864003/2023game/assets/128778304/a43ecd1d-6b83-4645-982a-6ec2429d3a40)
+
+- week2/class/예제5_5_5.cpp
+  ![5-5-5](https://github.com/2020864003/2023game/assets/128778304/af32456b-4c87-47fa-b57e-0a19d6786072)
+
+
 
 ## week 3
 - week3/class/program test1.c
