@@ -392,6 +392,10 @@
 
 <img width="933" alt="KakaoTalk_Photo_2023-12-01-16-34-49 001png" src="https://github.com/2020864003/2023game/assets/128778304/945bcfb6-3a51-4931-8bea-94a9c99e0ae1">
 
+-> 캐릭터 무브 한  것 사진 첨부
+![캐릭터무브](https://github.com/2020864003/2023game/assets/128778304/1df1f9b3-1958-4d0b-98f4-3279e4724930)
+
 
 
 ## week 14
+기말고사
