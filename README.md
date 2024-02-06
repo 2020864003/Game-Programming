@@ -352,7 +352,9 @@
 ```
 
 - ### text.html
-[Uploading text.html…]()<!DOCTYPE html>
+[Uploading text.html…]()
+```html
+<!DOCTYPE html>
 <html>
 <head>
 <meta charset="UTF-8">
@@ -379,6 +381,7 @@
 </script>	 
 </body>
 </html>
+```
 
 
 
@@ -394,7 +397,7 @@
 ## week 11
 - ### 10주차에 HTML 게임 주제 정한 것을 응용 하여 PPT 설명
   [HTML 게임 응용 - 2020864003 이정환.pdf](https://github.com/2020864003/2023game/files/13555994/HTML.-.2020864003.pdf)
-  -> HTML응용 된 것은  폴더 안에 있습니다.
+  	- -> HTML응용 된 것은  폴더 안에 있습니다.
 
 
 ## week 12
